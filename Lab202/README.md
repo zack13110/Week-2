@@ -2,9 +2,9 @@
 
 Creates Course class in a separate file, e.g. "Course.cs", and implements it to satisfy the following requirements:
 - Properties: Name, CourseID, Lecturer, MaxStudents, NumStudents
-	Validation: CourseID (6-digit number only), 
-				NumStudents (0-MaxStudents)
-				MaxStudents (0-80, and >= NumStudents)
+- Validation: 	CourseID (6-digit number only), 
+		NumStudents (0-MaxStudents)
+		MaxStudents (0-80, and >= NumStudents)
 - Constructors:
 	Course(): set default state
 	Course(Name, CourseID): takes 2 parameters
