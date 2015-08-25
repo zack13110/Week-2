@@ -2,7 +2,7 @@
 
 Creates Student class in a separate file, e.g. "Student.cs", and implements it to satisfy the following requirements:
 - Properties: Name, StudentID, YearOfBirth, isActive
-	Validation: YearOfBirth (from 1950 to 2000)
+- Validation: YearOfBirth (from 1950 to 2000)
 - Constructors:
 	Student(): set default state
 	Student(Name, StudentID): takes 2 parameters
