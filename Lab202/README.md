@@ -1,4 +1,4 @@
-# Lab2-2 , design and implement the Course class
+	# Lab2-2 , design and implement the Course class
 
 Creates Course class in a separate file, e.g. "Course.cs", and implements it to satisfy the following requirements:
 - Properties: Name, CourseID, Lecturer, MaxStudents, NumStudents
